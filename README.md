@@ -1,4 +1,4 @@
-###  <blockquote>  ! Shop Clear !  </blockquote>
+###  <blockquote>  ! Crypto Discover !  </blockquote>
 <br/>
 
 #### About the project.
