@@ -1,5 +1,5 @@
-###  <blockquote>  ! Crypto Discover App !  </blockquote>
+###  <blockquote>  ! Shop Clear !  </blockquote>
 <br/>
 
-#### Documentação do app.
+#### About the project.
 
